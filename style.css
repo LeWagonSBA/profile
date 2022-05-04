@@ -1,0 +1,47 @@
+body {
+  background-color: palevioletred;
+  font-family: Poppins;
+  text-align: center;
+}
+.box-white {
+  background-color: white;
+  box-shadow: 4px 4px 0px rgb(255, 255, 255);
+  text-align: center;
+  width: 60%;
+  padding: 16px;
+  border-radius: 5px;
+  margin: 16px auto;
+}
+
+
+h1 {
+  color: #CD7F32;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  color: #CD7F32;
+  font-size: 20px;
+}
+
+.btn {
+  background-color: palevioletred;
+  border: 2px solid #e0d6d2;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: palevioletred;
+  transition: 0.5s;
+}
+
+.ul{
+  text-align: left;
+  color: #CD7F32;
+  list-style: none;
+}
